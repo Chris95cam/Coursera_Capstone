@@ -10,7 +10,7 @@ related to car accidents, and use the data to predict the severity of each accid
 
 - [IBMDataScienceCapstone-CarAccidentSeverityClassification.ipynb](https://github.com/Chris95cam/Coursera_Capstone/blob/master/IBMDataScienceCapstone-CarAccidentSeverityClassification.ipynb): Python notebook containing the data processing, data exploration, and model building for this project. 
 
-- [placeholder](placeholder) - Report summarizing the findings of this project.
+- [placeholder](placeholder): Report summarizing the findings of this project.
 
 - [locationfetcher.py](https://github.com/Chris95cam/Coursera_Capstone/blob/master/locationfetcher.py): Function I wrote that creates a csv file containing the longitudes and latitudes for each city in the dataset.
 
