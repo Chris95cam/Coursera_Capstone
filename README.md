@@ -8,7 +8,7 @@ related to car accidents, and use the data to predict the severity of each accid
 
 ## Contents
 
-- [IBMDataScienceCapstone-CarAccidentSeverityClassification.ipynb](https://github.com/Chris95cam/Coursera_Capstone/blob/master/IBMDataScienceCapstone-CarAccidentSeverityClassification.ipynb): Python notebook containing the data processing, data exploration, and model building for this project. 
+- [IBMCapstone.ipynb](https://github.com/Chris95cam/Coursera_Capstone/blob/master/IBMCapstone.ipynb): Python notebook containing the data processing, data exploration, and model building for this project. 
 
 - [Car Accident Severity Final Report.pdf](https://github.com/Chris95cam/Coursera_Capstone/blob/master/Car%20Accident%20Severity%20Final%20Report.pdf): Report summarizing the findings of this project.
 
